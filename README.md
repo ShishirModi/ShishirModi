@@ -9,5 +9,4 @@ I am Shishir Modi, a tech enthusiast.
 - 💬 Ask me about anything
 - 📫 How to reach me: [My website](https://www.shishirmodi.me "shishirmodi.me")
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was born at a very young age
-
+- ⚡ Fun fact: The Firefox logo isn't a fox. It's actually a red panda!
