@@ -10,3 +10,5 @@ I am Shishir Modi, a tech enthusiast.
 - 📫 How to reach me: [My website](https://www.shishirmodi.me "shishirmodi.me")
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Firefox logo isn't a fox. It's actually a red panda!
+
+[![Shishir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShishirModi)]
