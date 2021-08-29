@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shishir-modi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir-modi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13923875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13923875" height="30" width="40" /></a>
-<a href="https://discord.gg/Zoikon#6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zoikon#6969" height="30" width="40" /></a>
+<a href="https://discord.gg/zvhzWQTH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zoikon#6969" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
