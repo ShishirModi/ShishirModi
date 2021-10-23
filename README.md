@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shishir, a student, an enthusiast, and an aspiring developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Fileshare](https://github.com/ShishirModi/FileShare)  
+- 🔭 I’m currently writing a book called [Z-Clypse](https://bit.ly/Z-Clypse). Check it out, it means a lot!  
   
 
 - 🌱 I’m currently learning Golang and Bot Development  
