@@ -6,16 +6,16 @@
 ### <div align="center">I'm Shishir, a student, an enthusiast, and an aspiring developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently writing a book called [Z-Clypse](https://bit.ly/Z-Clypse). Check it out, it means a lot!  
+- 🔭 I’m currently writing a book called [Checkmate](https://bit.ly/checkmate-wattpad). Check it out, it means a lot!  
   
 
-- 🌱 I’m currently learning Golang and Bot Development  
+- 🌱 I’m currently learning Golang
   
 
-- ❓ Ask me about anything related to Python and stuff in general  
+- ❓ Ask me about anything related to tech and stuff in general  
   
 
-- ⚡ Fun fact: I think I make good jokes 😜  
+- ⚡ Fun fact: The first computer mouse was made of wood!
   
 
 <br/>  
